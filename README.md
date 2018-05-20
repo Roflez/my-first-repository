@@ -1,28 +1,25 @@
-# This is a large heading
+# Riley *Roflez* Mahn
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Hayward, CA right meow
 
-- This is
-- an unordered
-- list
+### Stuff
 
-1. This is
-2. an ordered
-3. list
+Some stuff I like:
 
-Here is `some code` in the middle of a sentence.
+- Snowboarding
+- Being one with cool nature
+- The world in microscale. e.g. molecular biology, chemistry, quantum physics
 
-```
-This is
-a block
-of code
-```
+### Things
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Things I'm pretty into:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Pushing the limits of computational power
+- Public openness
+- People who speak their mind
+
+### Contact
+
+The best way to get in touch with me is through email: cmahn@ucsc.edu
